@@ -1,4 +1,4 @@
-# Humanoid_GYM_vision
+# Humanoid_vision_language
 
 This project aims to develop a long term general embodied humanoid platform on a [humumoid robot](https://github.com/roboterax/humanoid-gym) with camera and language input.
 
